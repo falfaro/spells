@@ -1,0 +1,3 @@
+[submodule "openstack-novalxd"]
+	path = openstack-novalxd
+	url = git@github.com:falfaro/openstack-novalxd.git
